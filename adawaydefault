@@ -510,6 +510,10 @@
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 t.medialytics.com
 
+# [Google]
+127.0.0.1 google-analytics.com
+127.0.0.1 googlesyndication.com
+
 # [applift]
 127.0.0.1 applift.com
 # use finer grained hostnames?
